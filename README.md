@@ -1,10 +1,18 @@
 ## Hi there 👋
 
-<p>By day I'm a professional web / software developer and by night I'm an electronics enthusiast with a passion for tinkering. My muses come in the form of cats, coffee, and women, inspiring me to create new things. However, when I'm not coding away on the computer you can find me devouring non-fiction books or watching an old school clean romance movie.</p>
+<p>By day, I'm a self-taught software developer specializing in automation—web scraping, crawling, and compiling data are my bread and butter. By night, I dive into my passions: tinkering with electronics, experimenting in the kitchen, or unwinding with a good movie. My muses? Cats, coffee, and the company of inspiring women—they fuel my creativity and keep me grounded.</p>
 
-<p>I am highly experienced in web scraping, working with both static HTML and dynamic sites with real-time data, which is my main focus within software automation. My tech stack primarily consists of Flask and SQLite / PostgreSQL, though I also use Node.js coupled with Express.js when needed.</p>
 
-<p>You can find some of my projects on my repository page, and there are even more helpful shell scripts in my <a>Gists section.</a src="https://gist.github.com/katalyst-labs"> These scripts, which I use daily to streamline tasks, are there for you to adapt to your own use case if you find them helpful.</p>
+<p>I'm a self-taught software developer specializing in automation—web scraping, crawling, and compiling data are my bread and butter. By night, I dive into my passions: tinkering with electronics, experimenting in the kitchen, or unwinding with a good movie. My muses? Cats, coffee, and the company of inspiring women—they fuel my creativity and keep me grounded.</p>
+
+
+<p>Before venturing into software, I worked as a PC hardware and network technician, assembling PCs and setting up networking devices, backed by vocational training. This hands-on experience laid the foundation for my technical problem-solving skills. I've also explored the world of IoT, building small projects like an automated garden watering system.</p>
+
+
+<p>My primary tech stack revolves around Flask, SQLite, and PostgreSQL. When the situation calls for it, I turn to Node.js with Express.js. I’m also proficient in full-stack web development, combining my backend expertise with front-end skills for seamless web solutions.</p>
+
+
+<p>In my free time, I enjoy reading non-fiction, cooking, and baking, or catching an old-school clean romance movie. On my GitHub, you'll find projects that showcase my work in automation and more. Don’t forget to check out my Gists section, where I share handy shell scripts to streamline everyday tasks—feel free to adapt them to your needs.</p>
 
 <hr>
 
