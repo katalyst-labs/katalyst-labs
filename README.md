@@ -1,26 +1,23 @@
 ## Hi there 👋
 
-<p>I'm a self-taught software developer specializing in automation—web scraping, crawling, and compiling data are my bread and butter. By night, I dive into my passions: tinkering with electronics, experimenting in the kitchen, or unwinding with a good movie. My muses? Cats, coffee, and the company of inspiring women—they fuel my creativity and keep me grounded.</p>
+<p>I am a self-taught software developer specialising in automation and web technologies. I draw inspiration from cats, coffee, and the art of creating elegant solutions to complex problems.</p>
+
+<p>My primary expertise lies in web scraping and data extraction, working extensively with both static HTML and dynamic sites featuring real-time data. I craft robust solutions using Python with Flask for backend services, coupled with SQLite and PostgreSQL for data management. When projects demand it, I also employ Node.js with Express.js to build scalable applications.</p>
+
+<p>My journey in technology began as a PC hardware and networking technician, where I gained valuable experience assembling computers and configuring networking devices. This foundation in hardware, combined with formal vocational training, has given me a comprehensive understanding of technology stacks from the ground up.</p>
 
 
-<p>Before venturing into software, I worked as a PC hardware and network technician, assembling PCs and setting up networking devices, backed by vocational training. This hands-on experience laid the foundation for my technical problem-solving skills. I've also explored the world of IoT, building small projects like an automated garden watering system.</p>
+<p>Beyond pure software development, I have ventured into IoT projects, successfully implementing solutions such as automated garden irrigation systems. This practical experience in hardware integration complements my software expertise, allowing me to approach problems with a full-stack perspective.</p>
 
 
-<p>My primary tech stack revolves around Flask, SQLite, and PostgreSQL. When the situation calls for it, I turn to Node.js with Express.js. I’m also proficient in full-stack web development, combining my backend expertise with front-end skills for seamless web solutions.</p>
+<p>My daily workflow is streamlined through various shell scripts, which you can find in my Gists section. Feel free to adapt these tools for your own use cases.</p>
 
 
-<p>In my free time, I enjoy reading non-fiction, cooking, and baking, or catching an old-school clean romance movie. On my GitHub, you'll find projects that showcase my work in automation and more. Don’t forget to check out my Gists section, where I share handy shell scripts to streamline everyday tasks—feel free to adapt them to your needs.</p>
+<p>My daily workflow is streamlined through various shell scripts, which you can find in my Gists section. Feel free to adapt these tools for your own use cases.When I'm not immersed in code, you'll find me expanding my knowledge through non-fiction reading, experimenting in the kitchen with cooking and baking, or unwinding with a classic film. I draw inspiration from cats, coffee, and the art of creating elegant solutions to complex problems.</p>
+
+
+<p>My daily workflow is streamlined through various shell scripts, which you can find in my Gists section. Feel free to adapt these tools for your own use cases.When I'm not immersed in code, you'll find me expanding my knowledge through non-fiction reading, experimenting in the kitchen with cooking and baking, or unwinding with a clean romance movie.</p>
+
+<p>Let's connect and build something remarkable together.</p>
 
 <hr>
-
-## Tech stack
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50">
-<img style="background-color: white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50">
-<img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50">
-<img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" width="50" height="50">
-</p>
