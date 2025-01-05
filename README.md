@@ -13,10 +13,7 @@
 <p>My daily workflow is streamlined through various shell scripts, which you can find in my Gists section. Feel free to adapt these tools for your own use cases.</p>
 
 
-<p>My daily workflow is streamlined through various shell scripts, which you can find in my Gists section. Feel free to adapt these tools for your own use cases.When I'm not immersed in code, you'll find me expanding my knowledge through non-fiction reading, experimenting in the kitchen with cooking and baking, or unwinding with a classic film. I draw inspiration from cats, coffee, and the art of creating elegant solutions to complex problems.</p>
-
-
-<p>My daily workflow is streamlined through various shell scripts, which you can find in my Gists section. Feel free to adapt these tools for your own use cases.When I'm not immersed in code, you'll find me expanding my knowledge through non-fiction reading, experimenting in the kitchen with cooking and baking, or unwinding with a clean romance movie.</p>
+<p>When I'm not immersed in code, you'll find me expanding my knowledge through non-fiction reading, experimenting in the kitchen with cooking and baking, or unwinding with a classic film. I draw inspiration from cats, coffee, and the art of creating elegant solutions to complex problems.</p>
 
 <p>Let's connect and build something remarkable together.</p>
 
