@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<p>By day, I'm a self-taught software developer specializing in automation—web scraping, crawling, and compiling data are my bread and butter. By night, I dive into my passions: tinkering with electronics, experimenting in the kitchen, or unwinding with a good movie. My muses? Cats, coffee, and the company of inspiring women—they fuel my creativity and keep me grounded.</p>
-
-
 <p>I'm a self-taught software developer specializing in automation—web scraping, crawling, and compiling data are my bread and butter. By night, I dive into my passions: tinkering with electronics, experimenting in the kitchen, or unwinding with a good movie. My muses? Cats, coffee, and the company of inspiring women—they fuel my creativity and keep me grounded.</p>
 
 
