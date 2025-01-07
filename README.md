@@ -2,7 +2,7 @@
 
 <p>I am a self-taught software developer specialising in automation and web technologies. I draw inspiration from cats, coffee, and the art of creating elegant solutions to complex problems.</p>
 
-<p>My primary expertise lies in web scraping and data extraction, working extensively with both static HTML and dynamic sites featuring real-time data. I craft robust solutions using Python with Flask for backend services, coupled with SQLite and PostgreSQL for data management. When projects demand it, I also employ Node.js with Express.js to build scalable applications.</p>
+<p>My primary expertise lies in web scraping and data extraction, working extensively with both static HTML and dynamic sites featuring real-time data.</p>
 
 <p>My journey in technology began as a PC hardware and networking technician, where I gained valuable experience assembling computers and configuring networking devices. Beyond pure software development, I have ventured into IoT projects, successfully implementing solutions such as automated garden irrigation systems. This practical experience in hardware integration complements my software expertise, allowing me to approach problems with a full-stack perspective.</p>
 
