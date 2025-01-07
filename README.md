@@ -4,10 +4,7 @@
 
 <p>My primary expertise lies in web scraping and data extraction, working extensively with both static HTML and dynamic sites featuring real-time data. I craft robust solutions using Python with Flask for backend services, coupled with SQLite and PostgreSQL for data management. When projects demand it, I also employ Node.js with Express.js to build scalable applications.</p>
 
-<p>My journey in technology began as a PC hardware and networking technician, where I gained valuable experience assembling computers and configuring networking devices. This foundation in hardware, combined with formal vocational training, has given me a comprehensive understanding of technology stacks from the ground up.</p>
-
-
-<p>Beyond pure software development, I have ventured into IoT projects, successfully implementing solutions such as automated garden irrigation systems. This practical experience in hardware integration complements my software expertise, allowing me to approach problems with a full-stack perspective.</p>
+<p>My journey in technology began as a PC hardware and networking technician, where I gained valuable experience assembling computers and configuring networking devices. Beyond pure software development, I have ventured into IoT projects, successfully implementing solutions such as automated garden irrigation systems. This practical experience in hardware integration complements my software expertise, allowing me to approach problems with a full-stack perspective.</p>
 
 
 <p>My daily workflow is streamlined through various shell scripts, which you can find in my Gists section. Feel free to adapt these tools for your own use cases.</p>
